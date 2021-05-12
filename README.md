@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- Creative Technologist / Full Stack Developer from Belgium
+- Building web projects, mobile apps & interactive installations
+- Teaching code at [devine.be](https://devine.be)
+
 ![wouterverweirders's Github Stats](https://github-readme-stats.vercel.app/api?username=wouterverweirder&show_icons=true)
 ![wouterverweirder's Top Programming Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=wouterverweirder&hide=html,actionscript,css)
 
