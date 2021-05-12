@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![wouterverweirders's Github Stats](https://github-readme-stats.vercel.app/api?username=wouterverweirder&show_icons=true)
+![wouterverweirder's Top Programming Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=wouterverweirder&hide=html,actionscript,css)]
+
 <!--
 **wouterverweirder/wouterverweirder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
